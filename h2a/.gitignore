@@ -1,0 +1,14 @@
+# Käännöksessä syntyvät kansiot
+build/
+build-*/
+cmake-build-*/
+
+# Qt Creatorin käyttäjäkohtaiset asetukset
+.qtcreator/
+*.user
+*.user.*
+
+# Käännetyt ohjelmat ja välitiedostot
+*.exe
+*.o
+*.obj
