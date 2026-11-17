@@ -7,7 +7,6 @@ int main()
 {
   {
         Chef chef("Gordon Ramsay"); //luodaan chef olio pinomuistiin
-
         chef.makeSalad();          //pisteen avulla kutsutaan tämän olion metodeja
         chef.makeSoup();
     }
